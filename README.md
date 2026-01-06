@@ -1,4 +1,3 @@
-==========================================
 COL106 LONG ASSIGNMENT 2: SocialNet Simulator
 ==========================================
 
@@ -19,7 +18,8 @@ The system models:
 ------------------------------------------
 The provided project is modular and divided as follows:
 
-social_network/
+```
+social_network
 │
 ├── utils.hpp        -> Case-insensitive helpers and string utilities.
 ├── utils.cpp
@@ -35,7 +35,7 @@ social_network/
 ├── User.cpp         -> Implementation of User class methods.
 │
 └── main.cpp         -> Main driver handling all user commands.
-
+```
 ------------------------------------------
 3. **COMPILATION INSTRUCTIONS**
 ------------------------------------------
